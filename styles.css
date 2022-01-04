@@ -1,0 +1,20 @@
+#main {
+    margin: 30px;
+}
+.butt {
+    margin-top: 10px;
+}
+textarea {
+    height: 500px;
+    width: 100%;
+}
+
+.buttons {
+    border: 0;
+    background-color: coral;
+    margin-right: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+
+}
